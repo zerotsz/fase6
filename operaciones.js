@@ -1,3 +1,4 @@
+//Mueve reglas de negocio a operaciones.js”
 import { menu } from "./menu.js";
 
 export function buscarPlatoPorNombre(nombre) {
