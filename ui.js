@@ -1,12 +1,12 @@
 //se creo un  archivo ui.js 
 import { menu, agregarPlato } from "./menu.js";
+// importa funciones de operaciones.js a ui.js 
 import {
     buscarPlato,
     filtrarStockBajo,
     venderPlato,
     verificarEstadoGeneral
 } from "./operaciones.js";
-
 
 export function renderMenu() {
 
