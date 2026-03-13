@@ -8,6 +8,8 @@ import {
     verificarEstadoGeneral
 } from "./operaciones.js";
 
+
+//Refactoriza llamadas entre módulos se mejora el sistema import las funciones de otros archivos haciendo el codigo mas ordenado y limpio
 export function renderMenu() {
 
     const output = document.getElementById("output");
