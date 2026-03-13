@@ -1,3 +1,4 @@
+//se creo un  archivo ui.js 
 import { menu, agregarPlato } from "./menu.js";
 import {
     buscarPlato,
