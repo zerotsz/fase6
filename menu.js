@@ -1,3 +1,5 @@
+//Mueve el menú y funciones de datos a menu.js
+
 export let menu = [
     { nombre: "Arroz con pollo", precio: 12, stock: 5 },
     { nombre: "Lomo saltado", precio: 18, stock: 3 },
